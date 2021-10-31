@@ -1,0 +1,3084 @@
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:11
+start positin(10,4)
+hole position(9,7)
+hole or star?star
+  ### ###  
+# ### #   #
+ #   ### ##
+ # ## #    
+####  # #  
+#    ##### 
+## ###     
+ ##  # ### 
+######     
+ # #   *###
+####+    # 
+ur
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:6
+start positin(2,5)
+hole position(1,5)
+hole or star?hole
+## ## 
+## ##O
+## # +
+# ## #
+      
+###  #
+u
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:18
+start positin(10,16)
+hole position(9,17)
+hole or star?star
+     ###  ###### #
+        #   #  #  
+ ### # #    ## ## 
+##     # # ### #  
+       ##         
+#### # # #  # ##  
+ #  ## #  # #   ##
+##   #### #      #
+## ## #  # #   #  
+ ##### ## ###    *
+# #  #  ###  # #+#
+#   ## #    ## #  
+  # #  ###   #   #
+    ##   ## #     
+  ### #### ##  #  
+ # ### ####  #  # 
+# ### ##     ###  
+##   ## #   #   ##
+druldruldr
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:6
+start positin(1,1)
+hole position(0,0)
+hole or star?star
+*## # 
+ +##  
+   # #
+### # 
+ # ## 
+##  ##
+lu
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:3
+start positin(2,2)
+hole position(0,2)
+hole or star?star
+  *
+ ##
+  +
+lur
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:7
+start positin(4,6)
+hole position(1,2)
+hole or star?hole
+ #   ##
+  O# # 
+#    # 
+  ##   
+## #  +
+ #  #  
+## #  #
+luld
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:3
+start positin(0,1)
+hole position(0,0)
+hole or star?hole
+O+ 
+ ##
+  #
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:6
+start positin(5,3)
+hole position(5,1)
+hole or star?hole
+#  ## 
+ #### 
+  # ##
+# #  #
+# # ##
+#O +##
+l
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:7
+start positin(1,3)
+hole position(3,0)
+hole or star?star
+## #  #
+## +   
+#  # ##
+*  ####
+  #### 
+ ##    
+    # #
+ldl
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:8
+start positin(6,5)
+hole position(6,3)
+hole or star?star
+       #
+  #    #
+ ## ## #
+  ##  # 
+#### #  
+  ##### 
+###* +  
+ #  # # 
+l
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:4
+start positin(0,2)
+hole position(2,3)
+hole or star?star
+ #+ 
+##  
+# #*
+ # #
+drd
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:8
+start positin(6,0)
+hole position(7,0)
+hole or star?hole
+## #  # 
+ #  ##  
+ # #### 
+# ##   #
+##  # # 
+ # # ###
++ ##   #
+O# #   #
+d
+maze size:3
+start positin(2,1)
+hole position(0,1)
+hole or star?star
+ *#
+   
+#+ 
+u
+maze size:3
+start positin(2,1)
+hole position(0,1)
+hole or star?star
+ *#
+   
+#+ 
+u
+maze size:3
+start positin(2,1)
+hole position(0,1)
+hole or star?star
+ *#
+   
+#+ 
+u
+maze size:3
+start positin(2,1)
+hole position(0,1)
+hole or star?star
+ *#
+   
+#+ 
+u
+maze size:3
+start positin(2,1)
+hole position(0,1)
+hole or star?star
+ *#
